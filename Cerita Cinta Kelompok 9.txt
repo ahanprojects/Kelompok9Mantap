@@ -1,6 +1,10 @@
 Judul : Cerita Cinta Kelompok 9
 
+<<<<<<< HEAD
 Minimal 6 kata, terakhirnya tambahin nama nim
 
 Di suatu pagi yang cerah,
 (Farhan - 13519071)
+=======
+Coba coba aja halow
+>>>>>>> f65867439248d16465f5ae64179a84a3a0d2c1f4
